@@ -25,8 +25,13 @@ blockchain, blockchain_log_path = initialize_blockchain()
 csv_file_path = '../data/raw_data/cybersecurity_data_large.csv'
 df = pd.read_csv(csv_file_path)
 
+# Initialize a global counter for generated data samples
+sample_counter = 0
+
 # Function to generate sample data
 def generate_sample_data():
+    global sample_counter
+    sample_counter += 1
     sample_data = pd.DataFrame({
         '0': np.random.rand(14),
         '1': np.random.rand(14),
@@ -41,6 +46,11 @@ def generate_sample_data():
 def index():
     with open(blockchain_log_path, 'r') as f:
         blockchain_data = json.load(f)
+    
+    # Extract and format timestamps from the blockchain log
+    for block in blockchain_data:
+        block['formatted_timestamp'] = datetime.fromtimestamp(block['timestamp']).strftime('%m/%d/%Y, %I:%M:%S %p')
+    
     dataset = df.to_dict(orient='records')
     return render_template('index.html', blockchain_data=blockchain_data, dataset=dataset)
 
@@ -62,24 +72,31 @@ def generate_data():
     sample_data = sample_data[['0', '1', '2', '3', '4', '5']]
     predictions = model.predict(sample_data)
     data = sample_data.to_dict(orient='records')
-    return jsonify(data=data, predictions=[int(pred) for pred in predictions])
+    return jsonify(data=data, predictions=[int(pred) for pred in predictions], sample_number=sample_counter)
 
 @app.route('/predictions_for_time', methods=['GET'])
 def predictions_for_time():
     time_str = request.args.get('time')
     try:
+        # Parse the timestamp
         time = datetime.strptime(time_str, '%Y-%m-%d %H:%M:%S')
     except ValueError:
         return jsonify({'error': 'Invalid time format. Use YYYY-MM-DD HH:MM:SS'}), 400
 
-    # Filter the dataset for the given time (assuming the dataset has a 'timestamp' column)
-    filtered_df = df[df['timestamp'] == time_str]
-    if filtered_df.empty:
-        return jsonify({'error': 'No data found for the specified time'}), 404
+    # Read the blockchain log
+    with open(blockchain_log_path, 'r') as f:
+        blockchain_data = json.load(f)
 
-    predictions = model.predict(filtered_df.drop(columns=['timestamp']))
-    data = filtered_df.to_dict(orient='records')
-    return jsonify(data=data, predictions=[int(pred) for pred in predictions])
+    # Search for the timestamp in the blockchain log
+    for block in blockchain_data:
+        block_time_str = block['timestamp']
+        block_time = datetime.fromtimestamp(block_time_str)
+        if block_time == time:
+            predictions_str = block['data'].split(': ')[1]
+            predictions = json.loads(predictions_str)
+            return jsonify({'predictions': predictions})
+
+    return jsonify({'error': 'No data found for the specified time'}), 404
 
 @app.route('/get_latest_data')
 def get_latest_data():
@@ -92,7 +109,8 @@ def get_latest_data():
     
     return jsonify({
         'blockchain_data': blockchain_data,
-        'predictions': [int(pred) for pred in predictions]
+        'predictions': [int(pred) for pred in predictions],
+        'sample_number': sample_counter
     })
 
 def background_task():
