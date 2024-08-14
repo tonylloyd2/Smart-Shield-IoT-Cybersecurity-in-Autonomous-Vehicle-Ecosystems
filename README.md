@@ -1,157 +1,130 @@
-# Smart Shield IOT CyberSecuroty in autonomous vehicle ecosystems
-## Project Overview
 
-This project aims to develop a robust framework to address cybersecurity vulnerabilities in IoT-based vehicle automation. By leveraging IoT technologies, machine learning, and advanced cybersecurity measures, the framework enhances vehicle safety, driver awareness, and fleet management in smart cities, contributing to the advancement of autonomous vehicle technology.
+# **Cybersecurity Framework for IoT-Enabled Autonomous Vehicles**
 
-## Objectives
+## **Project Overview**
 
-- **Analyze Safety and Security Vulnerabilities**: Conduct extensive research on cyber-attacks affecting autonomous vehicles.
-  
-- **Explore Autonomous Vehicle (AV) Technology**: Investigate the current state and cybersecurity challenges of AV technology.
+This project aims to develop a simplified prototype of a cybersecurity framework designed to secure IoT-enabled autonomous vehicles. The prototype integrates machine learning for anomaly detection and blockchain technology to ensure data integrity and secure communication. This framework is tested in a simulated environment to evaluate its effectiveness in mitigating cyber threats.
 
-- **Identify Security Solutions**: Explore and implement security solutions to counter cyber threats in autonomous vehicles.
+## **Project Structure**
 
-- **Propose Future Research Directions**: Suggest advancements in technology and security measures for the AV field.
-
-- **Develop System-Specific Security Methodologies**: Create customized strategies to defend vehicles based on unique security needs.
-
-- **Protect Sensitive Data**: Implement encryption and privacy-preserving techniques to secure sensitive vehicle data.
-
-- **Advance Regulatory Frameworks**: Advocate for regulatory frameworks addressing cybersecurity without hindering progress.
-
-- **Ensure Resilient Security Measures**: Implement robust protections for vehicle components like sensors and communication protocols.
-
-## Technology Stack
-
-- **Programming Languages**: Python, C/C++
-- **IoT Platform**: AWS IoT, MQTT
-- **Cybersecurity Tools**: Scapy, Wireshark, OpenSSL
-- **Machine Learning Frameworks**: TensorFlow, PyTorch
-- **Simulation Environment**: CARLA, Gazebo
-- **Database Management**: MongoDB, Firebase
-- **Web Framework**: Flask or Django
-
-## Project Structure
-
-```
-|-- README.md
-|-- src
-|   |-- main.py
-|   |-- components
-|       |-- communication.py
-|       |-- security.py
-|       |-- machine_learning.py
-|-- simulations
-|   |-- carla_scenarios
-|   |-- gazebo_scenarios
-|-- models
-|   |-- trained_models
-|-- data
-|   |-- vehicle_logs
-|   |-- threat_patterns
-|-- dashboard
-|   |-- templates
-|   |-- static
-|-- docs
-|   |-- research_papers
-|   |-- design_docs
-|-- tests
-|   |-- unit_tests
-|   |-- integration_tests
+```plaintext
+cybersecurity_framework_project/
+├── data/
+│   ├── raw_data/
+│   │   └── simulated_iot_data.csv
+│   ├── processed_data/
+│   │   ├── training_data.csv
+│   │   ├── testing_data.csv
+│   │   └── anomaly_injected_data.csv
+│   └── blockchain_logs/
+│       └── blockchain_data.json
+├── models/
+│   ├── anomaly_detection_model.pkl
+│   └── trained_model/
+│       ├── isolation_forest.pkl
+│       └── ...
+├── web_app/
+│   ├── templates/
+│   │   ├── index.html
+│   │   └── dashboard.html
+│   ├── static/
+│   │   ├── css/
+│   │   └── js/
+│   ├── app.py
+│   └── requirements.txt
+├── notebooks/
+│   ├── data_preprocessing.ipynb
+│   ├── model_training.ipynb
+│   ├── blockchain_implementation.ipynb
+│   └── data_analysis_and_visualization.ipynb
+├── tests/
+│   ├── test_anomaly_detection.py
+│   ├── test_blockchain.py
+│   └── ...
+└── README.md
 ```
 
-## Getting Started
+## **Getting Started**
 
-### Prerequisites
+### **Prerequisites**
 
-- **Python 3.8+**
-- **C/C++ Compiler**
-- **Node.js**
-- **Docker** (for containerization)
-- **AWS Account** (for IoT integration)
-- **CARLA Simulator** (download and set up from the official website)
-- **MongoDB or Firebase** (set up an instance for data storage)
+- Python 3.8+
+- Pip (Python package manager)
+- Virtual environment setup (optional but recommended)
 
-### Installation
+### **Setup Instructions**
 
-1. **Clone the Repository**:
+1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/vehicle-automation-security.git
-   cd vehicle-automation-security
+   git clone https://github.com/yourusername/cybersecurity_framework_project.git
+   cd cybersecurity_framework_project
    ```
+2. **Create a Virtual Environment:**
 
-2. **Install Dependencies**:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate   # On Windows: venv\Scripts\activate
+   ```
+3. **Install Dependencies:**
+   Navigate to the `web_app/` directory and install the required Python packages:
 
    ```bash
    pip install -r requirements.txt
    ```
+4. **Data Preprocessing:**
+   Use the Jupyter notebooks in the `notebooks/` directory to preprocess the data and train the machine learning model:
 
-3. **Set Up Simulation Environment**:
-
-   - Download and install **CARLA** from [CARLA's official website](https://carla.org/).
-   - Configure scenarios in the `simulations/carla_scenarios` directory.
-
-4. **Configure IoT Platform**:
-
-   - Set up an AWS IoT account and configure MQTT topics.
-   - Update `src/config.py` with your AWS IoT credentials.
-
-5. **Database Setup**:
-
-   - Configure MongoDB or Firebase and update connection details in `src/config.py`.
-
-### Running the Prototype
-
-1. **Start the Simulation**:
+   - `data_preprocessing.ipynb`: Clean and preprocess the IoT data.
+   - `model_training.ipynb`: Train the anomaly detection model.
+   - `blockchain_implementation.ipynb`: Implement the blockchain for data integrity.
+   - `data_analysis_and_visualization.ipynb`: Analyze and visualize the results.
+5. **Run the Web Application:**
+   Navigate to the `web_app/` directory and run the Flask application:
 
    ```bash
-   ./CarlaUE4.sh
+   python app.py
    ```
 
-2. **Run the Main Application**:
+   Open your web browser and go to `http://localhost:5000` to access the dashboard.
+6. **Testing:**
+   Execute the test scripts located in the `tests/` directory to ensure everything is functioning correctly:
 
    ```bash
-   python src/main.py
+   pytest tests/
    ```
 
-3. **Access the Dashboard**:
+## **Features**
 
-   - Navigate to `http://localhost:5000` in your web browser to access the control panel and view real-time data.
+- **Anomaly Detection:** Machine learning algorithms are used to detect anomalies in IoT sensor data, identifying potential cyber threats.
+- **Blockchain Integration:** Blockchain technology ensures the integrity of the data and secures communication within the IoT network.
+- **Web Dashboard:** A simple web interface displays real-time data, anomalies, and blockchain logs, allowing for easy monitoring and analysis.
 
-### Testing
+## **Usage**
 
-- **Unit Tests**:
+1. **Data Monitoring:** The web dashboard allows you to monitor IoT sensor data and detect anomalies in real-time.
+2. **Anomaly Injection:** You can simulate cyber-attacks by injecting anomalies into the data and observe how the system responds.
+3. **Blockchain Validation:** The blockchain ensures that all data transactions are secure and immutable, providing a tamper-proof record of events.
 
-  ```bash
-  pytest tests/unit_tests
-  ```
+## **Testing and Validation**
 
-- **Integration Tests**:
+- **Anomaly Detection:** The system's accuracy in detecting anomalies can be validated using the test data in the `tests/` directory.
+- **Blockchain Integrity:** The blockchain implementation ensures that any tampering with the data is detected, with logs stored in `blockchain_logs/`.
 
-  ```bash
-  pytest tests/integration_tests
-  ```
+## **Future Work**
 
-## Features
+- **Expand Simulation Environments:** Integrate more advanced simulation platforms to mimic real-world conditions more accurately.
+- **Enhanced Machine Learning Models:** Incorporate more sophisticated models and algorithms for improved anomaly detection.
+- **Scalability:** Test the framework's scalability with larger datasets and more complex IoT networks.
 
-- **Real-Time Security Monitoring**: Continuously monitor network traffic and system logs for signs of cyber threats.
-  
-- **Automated Threat Response**: Implement automated responses to mitigate identified threats.
+## **Contributing**
 
-- **User-Friendly Dashboard**: Monitor vehicle status, view security alerts, and manage system settings through a web-based interface.
+If you have suggestions or improvements, feel free to submit a pull request or open an issue. Contributions are always welcome!
 
-- **Data Encryption**: Secure data transmission using advanced encryption techniques.
-
-## Contributions
-
-Contributions are welcome! Please fork the repository and create a pull request with your improvements.
-
-## License
+## **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+---
 
-For questions or collaboration, please contact **Lloyd Katila** at [lloyd@example.com](mailto:lloydkatila@gmail.com).
-
+This README provides a comprehensive overview of the prototype, guiding users through setup, usage, and further development possibilities.
