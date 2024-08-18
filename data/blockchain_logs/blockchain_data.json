@@ -6613,5 +6613,572 @@
         "timestamp": 1723648585,
         "data": "Automated prediction made: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",
         "hash": "53c039285993ba8873c93943e071e1badcd9241d37ee6d9bd1bc925d8101e14e"
+    },
+    {
+        "index": 945,
+        "previous_hash": "53c039285993ba8873c93943e071e1badcd9241d37ee6d9bd1bc925d8101e14e",
+        "timestamp": 1723648645,
+        "data": "Automated prediction made: [1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1]",
+        "hash": "01f46f47a9524c88fbe581f8f67aaedd932f0adeb581a754a8cd2348dfb4c083"
+    },
+    {
+        "index": 946,
+        "previous_hash": "01f46f47a9524c88fbe581f8f67aaedd932f0adeb581a754a8cd2348dfb4c083",
+        "timestamp": 1723648705,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]",
+        "hash": "8393cf49942d28575d54ab3c2ba5c07a49ee0ba5b73d58bd1918d2b63490bfc7"
+    },
+    {
+        "index": 947,
+        "previous_hash": "8393cf49942d28575d54ab3c2ba5c07a49ee0ba5b73d58bd1918d2b63490bfc7",
+        "timestamp": 1723648765,
+        "data": "Automated prediction made: [1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 1, 1]",
+        "hash": "ccc873131ca460577a4ce562126c5650f6fe831e95c03174ebe31d32d34e3b37"
+    },
+    {
+        "index": 948,
+        "previous_hash": "ccc873131ca460577a4ce562126c5650f6fe831e95c03174ebe31d32d34e3b37",
+        "timestamp": 1723648825,
+        "data": "Automated prediction made: [0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]",
+        "hash": "59ab3b320019c6de8a1f917806a5b901d6fad75ded21cf110781410bf9bcf182"
+    },
+    {
+        "index": 949,
+        "previous_hash": "59ab3b320019c6de8a1f917806a5b901d6fad75ded21cf110781410bf9bcf182",
+        "timestamp": 1723665019,
+        "data": "Automated prediction made: [1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1]",
+        "hash": "7c25428b5645fdb2a72de6da3eef17b4f79be74ae1d917b81dac4021f774c736"
+    },
+    {
+        "index": 950,
+        "previous_hash": "7c25428b5645fdb2a72de6da3eef17b4f79be74ae1d917b81dac4021f774c736",
+        "timestamp": 1723665022,
+        "data": "Automated prediction made: [1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1]",
+        "hash": "1783228dad08e99ee581ba72fdc1a1e43010f99eb0177fe6bc6989ebc1872c8f"
+    },
+    {
+        "index": 951,
+        "previous_hash": "1783228dad08e99ee581ba72fdc1a1e43010f99eb0177fe6bc6989ebc1872c8f",
+        "timestamp": 1723665082,
+        "data": "Automated prediction made: [0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0]",
+        "hash": "43a507316f6966989b91b203715771561e2cabfd3fef47ecdd8245185247b413"
+    },
+    {
+        "index": 952,
+        "previous_hash": "43a507316f6966989b91b203715771561e2cabfd3fef47ecdd8245185247b413",
+        "timestamp": 1723665142,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1]",
+        "hash": "988cd9488531656101a03cadf276e681775a82bc5d016eb737734b2be1d95118"
+    },
+    {
+        "index": 953,
+        "previous_hash": "988cd9488531656101a03cadf276e681775a82bc5d016eb737734b2be1d95118",
+        "timestamp": 1723665202,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1]",
+        "hash": "c10baa950fe7b72946c8e2f404b60a945509794e2dbe7a97dc8e8349c1b2d88b"
+    },
+    {
+        "index": 954,
+        "previous_hash": "c10baa950fe7b72946c8e2f404b60a945509794e2dbe7a97dc8e8349c1b2d88b",
+        "timestamp": 1723665926,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1]",
+        "hash": "21d9788a0fcae543ffb67e03a804afb766fda2b991febe3250a982b261f6c45a"
+    },
+    {
+        "index": 955,
+        "previous_hash": "21d9788a0fcae543ffb67e03a804afb766fda2b991febe3250a982b261f6c45a",
+        "timestamp": 1723665986,
+        "data": "Automated prediction made: [1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "6af63333d19ae1e3b52bbdee712f20a0f318f7864b9891ea01b60acf27179fdd"
+    },
+    {
+        "index": 956,
+        "previous_hash": "6af63333d19ae1e3b52bbdee712f20a0f318f7864b9891ea01b60acf27179fdd",
+        "timestamp": 1723666046,
+        "data": "Automated prediction made: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1]",
+        "hash": "c18e84f8c3606886f1efc2bd869273de0ab2b32b0ae283c1463ef96e26d31738"
+    },
+    {
+        "index": 957,
+        "previous_hash": "c18e84f8c3606886f1efc2bd869273de0ab2b32b0ae283c1463ef96e26d31738",
+        "timestamp": 1723666107,
+        "data": "Automated prediction made: [1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1]",
+        "hash": "fe02c4c0b4c889b1a26cc1eacf4af0357512bb029d9987ca4c1dfec354d265d1"
+    },
+    {
+        "index": 958,
+        "previous_hash": "fe02c4c0b4c889b1a26cc1eacf4af0357512bb029d9987ca4c1dfec354d265d1",
+        "timestamp": 1723666167,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1]",
+        "hash": "1acd9725a549870d42751a4b10faa1507b4b0ab7373200a584ecb76f1dcf39df"
+    },
+    {
+        "index": 959,
+        "previous_hash": "1acd9725a549870d42751a4b10faa1507b4b0ab7373200a584ecb76f1dcf39df",
+        "timestamp": 1723666227,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0]",
+        "hash": "e43c5f894a1ef1841e2292891599ee0b7ec4b9e9a8b270b9d32d8d2552e808fb"
+    },
+    {
+        "index": 960,
+        "previous_hash": "e43c5f894a1ef1841e2292891599ee0b7ec4b9e9a8b270b9d32d8d2552e808fb",
+        "timestamp": 1723666287,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1]",
+        "hash": "2bea4ed7f134be695f8363c2d6c96ace9f20045e62ec128d98d9c013b645ff0e"
+    },
+    {
+        "index": 961,
+        "previous_hash": "2bea4ed7f134be695f8363c2d6c96ace9f20045e62ec128d98d9c013b645ff0e",
+        "timestamp": 1723666347,
+        "data": "Automated prediction made: [0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1]",
+        "hash": "da67db47b2e2f594d5e8c91bb20f077382bfec1a82affecdc9a53d28f202f113"
+    },
+    {
+        "index": 962,
+        "previous_hash": "da67db47b2e2f594d5e8c91bb20f077382bfec1a82affecdc9a53d28f202f113",
+        "timestamp": 1723666407,
+        "data": "Automated prediction made: [1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1]",
+        "hash": "6a8352862f6fce326e251356c2e2aeb338e93c77deb10b621f5769da58d7a2ba"
+    },
+    {
+        "index": 963,
+        "previous_hash": "6a8352862f6fce326e251356c2e2aeb338e93c77deb10b621f5769da58d7a2ba",
+        "timestamp": 1723666467,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1]",
+        "hash": "62b1a53c4cfe49a3e9a1bbe374c192e2cfcdcc3778e6473d5f536b09240f391e"
+    },
+    {
+        "index": 964,
+        "previous_hash": "62b1a53c4cfe49a3e9a1bbe374c192e2cfcdcc3778e6473d5f536b09240f391e",
+        "timestamp": 1723666527,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0]",
+        "hash": "e8db36d35f5ea547fece7a10c9a5a777008a04e73af0f778d27adbfb15f9f35c"
+    },
+    {
+        "index": 965,
+        "previous_hash": "e8db36d35f5ea547fece7a10c9a5a777008a04e73af0f778d27adbfb15f9f35c",
+        "timestamp": 1723666587,
+        "data": "Automated prediction made: [1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1]",
+        "hash": "c7565f1ba855f01f28ea848cbf7b56937773f93d822287a435884b0d00a9f9b2"
+    },
+    {
+        "index": 966,
+        "previous_hash": "c7565f1ba855f01f28ea848cbf7b56937773f93d822287a435884b0d00a9f9b2",
+        "timestamp": 1723666647,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0]",
+        "hash": "df51b4e6ff05609cd1c27c8f7de3f640b3fd380697338863fec82cc85e078646"
+    },
+    {
+        "index": 967,
+        "previous_hash": "df51b4e6ff05609cd1c27c8f7de3f640b3fd380697338863fec82cc85e078646",
+        "timestamp": 1723666707,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]",
+        "hash": "b2d5130cbdb9b9d2969be6645e700dd6e2aee93eb9b64c39d2e8c422ca57227c"
+    },
+    {
+        "index": 968,
+        "previous_hash": "b2d5130cbdb9b9d2969be6645e700dd6e2aee93eb9b64c39d2e8c422ca57227c",
+        "timestamp": 1723666767,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0]",
+        "hash": "e0c27446ab8677e3580f3bc3d73b799ba209dde0b29cbdc06d5deb5acf7d9d08"
+    },
+    {
+        "index": 969,
+        "previous_hash": "e0c27446ab8677e3580f3bc3d73b799ba209dde0b29cbdc06d5deb5acf7d9d08",
+        "timestamp": 1723666827,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1]",
+        "hash": "04837851ec454e03addcb691ea3d1d8c3d2357fd9c101b08af39ee971eec75e4"
+    },
+    {
+        "index": 970,
+        "previous_hash": "04837851ec454e03addcb691ea3d1d8c3d2357fd9c101b08af39ee971eec75e4",
+        "timestamp": 1723666887,
+        "data": "Automated prediction made: [0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1]",
+        "hash": "5feefceb2afb9924009dc8e041dec6d5e7b962410e2a39361b6a2651c14e73e6"
+    },
+    {
+        "index": 971,
+        "previous_hash": "5feefceb2afb9924009dc8e041dec6d5e7b962410e2a39361b6a2651c14e73e6",
+        "timestamp": 1723666947,
+        "data": "Automated prediction made: [0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1]",
+        "hash": "437fc2b99c413a61948049715a26218552c93744a42514735de4146aa4d33bf8"
+    },
+    {
+        "index": 972,
+        "previous_hash": "437fc2b99c413a61948049715a26218552c93744a42514735de4146aa4d33bf8",
+        "timestamp": 1723667007,
+        "data": "Automated prediction made: [1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1]",
+        "hash": "a07a579497176ca5571ce16843fb968022a4170f5dd2af41d6fb2cc4f0dec096"
+    },
+    {
+        "index": 973,
+        "previous_hash": "a07a579497176ca5571ce16843fb968022a4170f5dd2af41d6fb2cc4f0dec096",
+        "timestamp": 1723667067,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "b23f00b9e25374c4bcdb1defdf4917de9009e93be8ac92935f1a54de7f374a9f"
+    },
+    {
+        "index": 974,
+        "previous_hash": "b23f00b9e25374c4bcdb1defdf4917de9009e93be8ac92935f1a54de7f374a9f",
+        "timestamp": 1723668576,
+        "data": "Automated prediction made: [0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1]",
+        "hash": "c2ff0e6a3470003c3aad895ba4dcf96bbeef66befb225bc4b21247c026c69f70"
+    },
+    {
+        "index": 975,
+        "previous_hash": "c2ff0e6a3470003c3aad895ba4dcf96bbeef66befb225bc4b21247c026c69f70",
+        "timestamp": 1723668578,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1]",
+        "hash": "7058d2bd5f707571e697e23a303d8eac8f815c187e1e9f77e65fbde786dfb389"
+    },
+    {
+        "index": 976,
+        "previous_hash": "7058d2bd5f707571e697e23a303d8eac8f815c187e1e9f77e65fbde786dfb389",
+        "timestamp": 1723668638,
+        "data": "Automated prediction made: [1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1]",
+        "hash": "ff3a8ea28656bdc96e57bad9b7a2c5d9f65e97c4662de2aafad8ad23c256573b"
+    },
+    {
+        "index": 977,
+        "previous_hash": "ff3a8ea28656bdc96e57bad9b7a2c5d9f65e97c4662de2aafad8ad23c256573b",
+        "timestamp": 1723668698,
+        "data": "Automated prediction made: [1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1]",
+        "hash": "ca92661bd925d3bfb03459d0fbfe20ef7e802053660638fbf1261ceb2cd5660f"
+    },
+    {
+        "index": 978,
+        "previous_hash": "ca92661bd925d3bfb03459d0fbfe20ef7e802053660638fbf1261ceb2cd5660f",
+        "timestamp": 1723668758,
+        "data": "Automated prediction made: [1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "2ebbf3004a15e047a1eef3e27128e0144a6a72e1f6771a1b06aa2adb302d4db1"
+    },
+    {
+        "index": 979,
+        "previous_hash": "2ebbf3004a15e047a1eef3e27128e0144a6a72e1f6771a1b06aa2adb302d4db1",
+        "timestamp": 1723668818,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1]",
+        "hash": "ed3ee0348d89f855a7f524d4ded22488afa5f113bb5dc336cd2d4c145e9a9b08"
+    },
+    {
+        "index": 980,
+        "previous_hash": "ed3ee0348d89f855a7f524d4ded22488afa5f113bb5dc336cd2d4c145e9a9b08",
+        "timestamp": 1723668878,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1]",
+        "hash": "1c9094e42ee68776f9acf49132715d061c0d1d4188fbfdddc8158aef631daa26"
+    },
+    {
+        "index": 981,
+        "previous_hash": "1c9094e42ee68776f9acf49132715d061c0d1d4188fbfdddc8158aef631daa26",
+        "timestamp": 1723668938,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "c53321c509546cc2b95425f4ec54a90c9eccfd7cd31e31735260d659f698e15f"
+    },
+    {
+        "index": 982,
+        "previous_hash": "c53321c509546cc2b95425f4ec54a90c9eccfd7cd31e31735260d659f698e15f",
+        "timestamp": 1723668998,
+        "data": "Automated prediction made: [0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1]",
+        "hash": "937bb9fb0140372bf562235acf9691e9ef420012d64080451fd93f62badfa109"
+    },
+    {
+        "index": 983,
+        "previous_hash": "937bb9fb0140372bf562235acf9691e9ef420012d64080451fd93f62badfa109",
+        "timestamp": 1723669058,
+        "data": "Automated prediction made: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0]",
+        "hash": "6393166df6589cd312f9d3e4754f28c67ac6ddddf6843e06686c057951226762"
+    },
+    {
+        "index": 984,
+        "previous_hash": "6393166df6589cd312f9d3e4754f28c67ac6ddddf6843e06686c057951226762",
+        "timestamp": 1723669118,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1]",
+        "hash": "b38b3deede3c4048c526cd7b26f0a82257b84c86f1e75b0d2339903dd9abdcb9"
+    },
+    {
+        "index": 985,
+        "previous_hash": "b38b3deede3c4048c526cd7b26f0a82257b84c86f1e75b0d2339903dd9abdcb9",
+        "timestamp": 1723669179,
+        "data": "Automated prediction made: [1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0]",
+        "hash": "5cc3a412a8e26596968bf58d15b03f4ecc584864589e92aa62c7d073070f3c62"
+    },
+    {
+        "index": 986,
+        "previous_hash": "5cc3a412a8e26596968bf58d15b03f4ecc584864589e92aa62c7d073070f3c62",
+        "timestamp": 1723669239,
+        "data": "Automated prediction made: [1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1]",
+        "hash": "21573c263e7e83e2852cbe4448566bf4d0ba8861e4dc1f62af6c772372231235"
+    },
+    {
+        "index": 987,
+        "previous_hash": "21573c263e7e83e2852cbe4448566bf4d0ba8861e4dc1f62af6c772372231235",
+        "timestamp": 1723669299,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "075f12f5be42c553fc901b7f56cf9ef881879f11205f2c1159a6b65e0dca7faa"
+    },
+    {
+        "index": 988,
+        "previous_hash": "075f12f5be42c553fc901b7f56cf9ef881879f11205f2c1159a6b65e0dca7faa",
+        "timestamp": 1723669359,
+        "data": "Automated prediction made: [1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1]",
+        "hash": "a226aa87d1d9270bf89af8a97cc8f1a0170407521c4d67bcbb7329159aaf54ef"
+    },
+    {
+        "index": 989,
+        "previous_hash": "a226aa87d1d9270bf89af8a97cc8f1a0170407521c4d67bcbb7329159aaf54ef",
+        "timestamp": 1723669419,
+        "data": "Automated prediction made: [1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "3c75d2e7f3e8888bd8941e54e3b06b7a765d627d475986859ed218998281b8fc"
+    },
+    {
+        "index": 990,
+        "previous_hash": "3c75d2e7f3e8888bd8941e54e3b06b7a765d627d475986859ed218998281b8fc",
+        "timestamp": 1723669479,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "34387b1daa41f84896e411ea9c2da92c44fc64a1cc2adfcc15ff420340a5c497"
+    },
+    {
+        "index": 991,
+        "previous_hash": "34387b1daa41f84896e411ea9c2da92c44fc64a1cc2adfcc15ff420340a5c497",
+        "timestamp": 1723669539,
+        "data": "Automated prediction made: [1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1, 0, 1]",
+        "hash": "8e06c2d1baa4545543dfbeff409068a8547e6ff8108315b5b831801c1d6ac31a"
+    },
+    {
+        "index": 992,
+        "previous_hash": "8e06c2d1baa4545543dfbeff409068a8547e6ff8108315b5b831801c1d6ac31a",
+        "timestamp": 1723669599,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "299a6a2417c94ff4726f7cc5cadd09d188659b47f6b5a501474964577254399c"
+    },
+    {
+        "index": 993,
+        "previous_hash": "299a6a2417c94ff4726f7cc5cadd09d188659b47f6b5a501474964577254399c",
+        "timestamp": 1723669659,
+        "data": "Automated prediction made: [0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1]",
+        "hash": "acae8ec4ced109260b933076dc9e80fe5fb581ac530cc1e7b9e4793014733b4a"
+    },
+    {
+        "index": 994,
+        "previous_hash": "acae8ec4ced109260b933076dc9e80fe5fb581ac530cc1e7b9e4793014733b4a",
+        "timestamp": 1723669719,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1]",
+        "hash": "177c6fc29f05273731a5d5a3d518e2fe64f7ec422ce71341fa6a2bd620f5f264"
+    },
+    {
+        "index": 995,
+        "previous_hash": "177c6fc29f05273731a5d5a3d518e2fe64f7ec422ce71341fa6a2bd620f5f264",
+        "timestamp": 1723673950,
+        "data": "Automated prediction made: [1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1]",
+        "hash": "7f872b0bf6acaf693712994c1d8e7e2752d8337e3b5fedd5fa260f2259dbebac"
+    },
+    {
+        "index": 996,
+        "previous_hash": "7f872b0bf6acaf693712994c1d8e7e2752d8337e3b5fedd5fa260f2259dbebac",
+        "timestamp": 1723674010,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1]",
+        "hash": "80a7c57e3397d07e770a80da2613a2907a1f11d8867facdffe59955acc58429c"
+    },
+    {
+        "index": 997,
+        "previous_hash": "80a7c57e3397d07e770a80da2613a2907a1f11d8867facdffe59955acc58429c",
+        "timestamp": 1723674070,
+        "data": "Automated prediction made: [0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "7b5cd9a39d6cdf113b6cbdd8aea6a861efd2419ed3f31bcc40f133cd1d18c12e"
+    },
+    {
+        "index": 998,
+        "previous_hash": "7b5cd9a39d6cdf113b6cbdd8aea6a861efd2419ed3f31bcc40f133cd1d18c12e",
+        "timestamp": 1723674130,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "ef4181588db4f79ccc805a98f6249a1df2c5e4c9be38dcd224a21467b925c0b1"
+    },
+    {
+        "index": 999,
+        "previous_hash": "ef4181588db4f79ccc805a98f6249a1df2c5e4c9be38dcd224a21467b925c0b1",
+        "timestamp": 1723674190,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1]",
+        "hash": "ff103ba619279691219bc56e4a05b182dd1e472fa007ae9d7440efbe0cf2ccf1"
+    },
+    {
+        "index": 1000,
+        "previous_hash": "ff103ba619279691219bc56e4a05b182dd1e472fa007ae9d7440efbe0cf2ccf1",
+        "timestamp": 1723674250,
+        "data": "Automated prediction made: [1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0]",
+        "hash": "831daff2b75a55fcef3fb1e148fd486b161ee16f0644fee998f19b3f7e81a8ac"
+    },
+    {
+        "index": 1001,
+        "previous_hash": "831daff2b75a55fcef3fb1e148fd486b161ee16f0644fee998f19b3f7e81a8ac",
+        "timestamp": 1723674310,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1]",
+        "hash": "137fa7f8b6ca793fd17a189715e5e7d512762020bae57f01f3bff721905c64fb"
+    },
+    {
+        "index": 1002,
+        "previous_hash": "137fa7f8b6ca793fd17a189715e5e7d512762020bae57f01f3bff721905c64fb",
+        "timestamp": 1723674370,
+        "data": "Automated prediction made: [1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "3381903709c62e6415d25c8811165334282f7f4ea2b4a4da0cfdef212808236f"
+    },
+    {
+        "index": 1003,
+        "previous_hash": "3381903709c62e6415d25c8811165334282f7f4ea2b4a4da0cfdef212808236f",
+        "timestamp": 1723674430,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0]",
+        "hash": "94339f64f940f6d5e3a786aabdf68f696c32230d626db66ef8aca749d1ebd324"
+    },
+    {
+        "index": 1004,
+        "previous_hash": "94339f64f940f6d5e3a786aabdf68f696c32230d626db66ef8aca749d1ebd324",
+        "timestamp": 1723674490,
+        "data": "Automated prediction made: [0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "e27aa8bc781556344951fe29a6a799102452fe09bac410b223202f6c00dcee4c"
+    },
+    {
+        "index": 1005,
+        "previous_hash": "e27aa8bc781556344951fe29a6a799102452fe09bac410b223202f6c00dcee4c",
+        "timestamp": 1723674550,
+        "data": "Automated prediction made: [1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "181eb3d648dac919326e608e300a40cb0cbc01ad810f73d689c803b09e125848"
+    },
+    {
+        "index": 1006,
+        "previous_hash": "181eb3d648dac919326e608e300a40cb0cbc01ad810f73d689c803b09e125848",
+        "timestamp": 1723674610,
+        "data": "Automated prediction made: [1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "0a09eb0aa15e8e7abed1ee633c8f5f895e93aaeaeadca54cd1c52ebe500e73cd"
+    },
+    {
+        "index": 1007,
+        "previous_hash": "0a09eb0aa15e8e7abed1ee633c8f5f895e93aaeaeadca54cd1c52ebe500e73cd",
+        "timestamp": 1723674671,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0]",
+        "hash": "9763661f91650f18232d5375a18d7a928aa824aa4f3d190fbd1157434860f31e"
+    },
+    {
+        "index": 1008,
+        "previous_hash": "9763661f91650f18232d5375a18d7a928aa824aa4f3d190fbd1157434860f31e",
+        "timestamp": 1723674731,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0]",
+        "hash": "0d8f5c2ab3dec97375ba974a026947566fefb44a18dbc0413b8b2282a5f91969"
+    },
+    {
+        "index": 1009,
+        "previous_hash": "0d8f5c2ab3dec97375ba974a026947566fefb44a18dbc0413b8b2282a5f91969",
+        "timestamp": 1723674791,
+        "data": "Automated prediction made: [1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]",
+        "hash": "ccbb93693ba90f7d94d665ab2fc4fc9db256b6dba8fdd4a0e8d88d6b667e2cd6"
+    },
+    {
+        "index": 1010,
+        "previous_hash": "ccbb93693ba90f7d94d665ab2fc4fc9db256b6dba8fdd4a0e8d88d6b667e2cd6",
+        "timestamp": 1723674851,
+        "data": "Automated prediction made: [1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1]",
+        "hash": "254f8cc5c6d1566f875e3c7dd2590a68dfe3e18a17e17950011407fefaf5732d"
+    },
+    {
+        "index": 1011,
+        "previous_hash": "254f8cc5c6d1566f875e3c7dd2590a68dfe3e18a17e17950011407fefaf5732d",
+        "timestamp": 1723674911,
+        "data": "Automated prediction made: [0, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1]",
+        "hash": "6ffc88c227394582a83df0712b5f326a659e9054cbe85d4d30aedeee97578320"
+    },
+    {
+        "index": 1012,
+        "previous_hash": "6ffc88c227394582a83df0712b5f326a659e9054cbe85d4d30aedeee97578320",
+        "timestamp": 1723674971,
+        "data": "Automated prediction made: [1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "da138bc8392288ec445c3494b26274842f169b43b0eed9eb336540f6ea0675fd"
+    },
+    {
+        "index": 1013,
+        "previous_hash": "da138bc8392288ec445c3494b26274842f169b43b0eed9eb336540f6ea0675fd",
+        "timestamp": 1723675031,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "74b406db9c48b21501bd9b94a6ed73832488e4e096e3ff0d48ab0d6611aab383"
+    },
+    {
+        "index": 1014,
+        "previous_hash": "74b406db9c48b21501bd9b94a6ed73832488e4e096e3ff0d48ab0d6611aab383",
+        "timestamp": 1723675091,
+        "data": "Automated prediction made: [1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1]",
+        "hash": "9fbd4b65bde500c7c54585094527664f7c93a69269168dedd26623f75d9085ab"
+    },
+    {
+        "index": 1015,
+        "previous_hash": "9fbd4b65bde500c7c54585094527664f7c93a69269168dedd26623f75d9085ab",
+        "timestamp": 1723675151,
+        "data": "Automated prediction made: [1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1]",
+        "hash": "485e7a3e127af4667aa233874697405faf69ae6232aa3c87c58e349dd3c216e7"
+    },
+    {
+        "index": 1016,
+        "previous_hash": "485e7a3e127af4667aa233874697405faf69ae6232aa3c87c58e349dd3c216e7",
+        "timestamp": 1723675211,
+        "data": "Automated prediction made: [0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1]",
+        "hash": "1b187ef721cc88945d742588ea194397413f67941d2f290f9724bedaebc191bf"
+    },
+    {
+        "index": 1017,
+        "previous_hash": "1b187ef721cc88945d742588ea194397413f67941d2f290f9724bedaebc191bf",
+        "timestamp": 1723675271,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0]",
+        "hash": "6d0bf745fc5c07de42db048c881ac78533527a6d80e163ead621ad4c378e85c9"
+    },
+    {
+        "index": 1018,
+        "previous_hash": "6d0bf745fc5c07de42db048c881ac78533527a6d80e163ead621ad4c378e85c9",
+        "timestamp": 1723675331,
+        "data": "Automated prediction made: [1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0]",
+        "hash": "d56fe80f3d6bb2d66d8d13734b55bd8471aebdfaf7604703aa6cd033685afb32"
+    },
+    {
+        "index": 1019,
+        "previous_hash": "d56fe80f3d6bb2d66d8d13734b55bd8471aebdfaf7604703aa6cd033685afb32",
+        "timestamp": 1723675391,
+        "data": "Automated prediction made: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0]",
+        "hash": "6ed4a14183d48ed15d688fed30184422ae81a5af08d376267e5289b8691acbe2"
+    },
+    {
+        "index": 1020,
+        "previous_hash": "6ed4a14183d48ed15d688fed30184422ae81a5af08d376267e5289b8691acbe2",
+        "timestamp": 1723675451,
+        "data": "Automated prediction made: [1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1]",
+        "hash": "245ae5bae469cfae5e6d9db5bfc7805a7945fc65f2fcc05df54762acc502d54b"
+    },
+    {
+        "index": 1021,
+        "previous_hash": "245ae5bae469cfae5e6d9db5bfc7805a7945fc65f2fcc05df54762acc502d54b",
+        "timestamp": 1723675511,
+        "data": "Automated prediction made: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1]",
+        "hash": "b913714fb6a32ff0fa45d319c284b5ec31be0c6570c4cc8637a8cb3de5e031a1"
+    },
+    {
+        "index": 1022,
+        "previous_hash": "b913714fb6a32ff0fa45d319c284b5ec31be0c6570c4cc8637a8cb3de5e031a1",
+        "timestamp": 1723675571,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0]",
+        "hash": "ac566a0e9770298476eff4ecc897f02f4c3d85e143fc893781b37c3b77c8d259"
+    },
+    {
+        "index": 1023,
+        "previous_hash": "ac566a0e9770298476eff4ecc897f02f4c3d85e143fc893781b37c3b77c8d259",
+        "timestamp": 1723678671,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0]",
+        "hash": "7ca7dfb70e7973f1f6ae7483ac430ae8573abc0952fcb15aef8513a67eb65dec"
+    },
+    {
+        "index": 1024,
+        "previous_hash": "7ca7dfb70e7973f1f6ae7483ac430ae8573abc0952fcb15aef8513a67eb65dec",
+        "timestamp": 1723678731,
+        "data": "Automated prediction made: [1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1]",
+        "hash": "ef1b4280d8ea6c9e9c7840a68e415267bdea6fe74d74afe7063d036831df5ca4"
+    },
+    {
+        "index": 1025,
+        "previous_hash": "ef1b4280d8ea6c9e9c7840a68e415267bdea6fe74d74afe7063d036831df5ca4",
+        "timestamp": 1723678791,
+        "data": "Automated prediction made: [1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1]",
+        "hash": "8deab6c2efb61cea2388e75576290ff0c6f9b76428d393cdebd6a86b50c74c35"
     }
 ]
